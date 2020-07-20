@@ -986,7 +986,7 @@ figcaption {
     padding: 80px 50px;
   }
   .section.main-hero {
-    min-height: 40vh;
+    min-height: 50vh;
   }
   .button {
     display: -webkit-box;
@@ -1160,7 +1160,7 @@ figcaption {
     padding: 50px 20px;
   }
   .section.main-hero {
-    min-height: 30vh;
+    min-height: 50vh;
   }
   .button {
     font-size: 16px;
@@ -1251,6 +1251,9 @@ figcaption {
   .social-logo.centered {
     margin-right: 12px;
     margin-left: 12px;
+  }
+  .card-highlight {
+    display: none;
   }
   .heading {
     font-size: 24px;
