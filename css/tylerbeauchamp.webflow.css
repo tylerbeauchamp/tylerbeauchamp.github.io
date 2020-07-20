@@ -211,7 +211,7 @@ figcaption {
 }
 
 .section.main-hero {
-  min-height: 75vh;
+  min-height: 80vh;
 }
 
 .button {
@@ -841,7 +841,7 @@ figcaption {
     min-height: 30vh;
   }
   .section.main-hero {
-    min-height: 50vh;
+    min-height: 80vh;
   }
   .button {
     min-width: 130px;
@@ -986,7 +986,7 @@ figcaption {
     padding: 80px 50px;
   }
   .section.main-hero {
-    min-height: 50vh;
+    min-height: 80vh;
   }
   .button {
     display: -webkit-box;
@@ -1160,7 +1160,7 @@ figcaption {
     padding: 50px 20px;
   }
   .section.main-hero {
-    min-height: 50vh;
+    min-height: 80vh;
   }
   .button {
     font-size: 16px;
