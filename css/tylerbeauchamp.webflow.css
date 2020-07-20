@@ -840,6 +840,9 @@ figcaption {
   .section.page-hero {
     min-height: 30vh;
   }
+  .section.main-hero {
+    min-height: 50vh;
+  }
   .button {
     min-width: 130px;
     -webkit-box-pack: center;
@@ -981,6 +984,9 @@ figcaption {
   }
   .section.article {
     padding: 80px 50px;
+  }
+  .section.main-hero {
+    min-height: 40vh;
   }
   .button {
     display: -webkit-box;
@@ -1152,6 +1158,9 @@ figcaption {
   }
   .section.article {
     padding: 50px 20px;
+  }
+  .section.main-hero {
+    min-height: 30vh;
   }
   .button {
     font-size: 16px;
