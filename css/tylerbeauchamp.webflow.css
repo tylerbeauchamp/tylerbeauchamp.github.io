@@ -241,6 +241,10 @@ figcaption {
   background-color: #43464d;
 }
 
+.button.better-boards {
+  background-color: #EC6081;
+}
+
 .button.humanizing-machine-learning {
   background-color: #65b9cb;
 }
