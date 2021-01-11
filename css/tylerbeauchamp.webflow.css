@@ -726,7 +726,6 @@ figcaption {
 .card-div-block {
   overflow: hidden;
   margin-right: 0px;
-  background-color: #bcc0c4;
   box-shadow: 0 1px 15px 0 rgba(0, 0, 0, 0.06);
 }
 
@@ -840,7 +839,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0px;
-  background-color: hsla(0, 0%, 100%, 0.9);
+  background-color: #fff;
   opacity: 1;
   background-clip: border-box;
 }
