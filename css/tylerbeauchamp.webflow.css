@@ -367,6 +367,7 @@ figcaption {
   top: 0%;
   right: 0%;
   bottom: auto;
+  z-index: 9999;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -826,7 +827,7 @@ figcaption {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  z-index: 10000;
+  z-index: 100;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -848,7 +849,7 @@ figcaption {
 .div-block {
   width: 30px;
   height: 30px;
-  margin-top: 25vh;
+  margin-top: 15vh;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
@@ -1044,7 +1045,7 @@ figcaption {
   }
 
   .div-block {
-    margin-top: 25vh;
+    margin-top: 15vh;
   }
 }
 
@@ -1261,7 +1262,7 @@ figcaption {
   }
 
   .div-block {
-    margin-top: 25vh;
+    margin-top: 15vh;
   }
 }
 
@@ -1427,7 +1428,7 @@ figcaption {
   }
 
   .div-block {
-    margin-top: 25vh;
+    margin-top: 15vh;
   }
 }
 
