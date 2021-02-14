@@ -393,10 +393,10 @@ figcaption {
 }
 
 .hero-heading {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   font-family: 'Playfair Display', sans-serif;
   color: #040fdb;
-  font-size: 270px;
+  font-size: 80px;
   line-height: 100%;
   font-style: italic;
   font-weight: 900;
@@ -975,7 +975,7 @@ figcaption {
 
   .hero-heading {
     margin-bottom: 20px;
-    font-size: 180px;
+    font-size: 60px;
   }
 
   .contact {
@@ -1132,7 +1132,7 @@ figcaption {
 
   .hero-heading {
     margin-bottom: 10px;
-    font-size: 140px;
+    font-size: 50px;
   }
 
   .text-field.cc-textarea {
@@ -1348,7 +1348,7 @@ figcaption {
 
   .hero-heading {
     margin-bottom: 10px;
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
   }
 
@@ -1447,6 +1447,10 @@ figcaption {
 
   .column-2 {
     padding-right: 0px;
+  }
+
+  .preloader {
+    display: none;
   }
 
   .div-block {
